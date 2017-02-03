@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/librarybooks/librarybooks.iml" filepath="$PROJECT_DIR$/librarybooks/librarybooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryparent.iml" filepath="$PROJECT_DIR$/libraryparent.iml" />
+    </modules>
+  </component>
+</project>
